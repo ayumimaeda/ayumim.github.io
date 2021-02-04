@@ -1,1 +1,0 @@
-# ayumim.github.io
