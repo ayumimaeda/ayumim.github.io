@@ -42,7 +42,9 @@
 
 
 .mv{
-  width: 680px;
+ background-image: url(24409426_m.jpg)
+ background-repeat: no-repeat;
+ background-size: cover; 
   
   margin: 0 auto;
 }
