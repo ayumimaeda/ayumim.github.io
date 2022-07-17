@@ -66,21 +66,21 @@ boxsizing: border-box;
   letter-spacing: 0.2rem;
 }
 
-background-image: url(24439578_s.jpg);
+
 
 .mv{
   width: 100%;
    display: flex;
- text-align: center;
+ 
    margin: 0 auto;
 
 }
 
 .mv img {
-  <!-- display: inline-block;
+   display: inline-block;
    flex-basis: 600px;
   
-   margin-top: 60px;-->
+   margin-top: 60px;
 }
    
    
