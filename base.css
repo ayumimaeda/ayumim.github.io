@@ -76,8 +76,8 @@ img{vertical-align: bottom;}
 
 .mv img {
    display: inline;
-   height: auto;
-   width: 30%;
+   flex-basis: 250px;
+  
    margin-top: 60px;
 }
    
