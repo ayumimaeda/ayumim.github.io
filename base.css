@@ -70,14 +70,14 @@ img{vertical-align: bottom;}
 .mv{
   width: 50%;
    display: flex;
- 
+ text-align: center;
 
 }
 
 .mv img {
    display: inline;
    
-   text-align: center;
+   
    margin-top: 60px;
 }
    
