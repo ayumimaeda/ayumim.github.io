@@ -21,6 +21,7 @@ img{vertical-align: bottom;}
 :focus{outline:none;}
 
 
+boxsizing: border-box;
 
 
 
