@@ -76,7 +76,7 @@ img{vertical-align: bottom;}
 
 .mv img {
    display: inline;
-   
+   height: auto;
    
    margin-top: 60px;
 }
