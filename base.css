@@ -68,15 +68,17 @@ img{vertical-align: bottom;}
 
 
 .mv{
- 
-   
   width: 400px;
-   display: inline;
-
-  
 
 }
 
+.mv img {
+   display: inline;
+}
+   
+   
+   
+   
 .base__title{
   text-align: center;
   color: #800000;
