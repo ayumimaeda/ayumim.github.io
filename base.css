@@ -69,13 +69,14 @@ img{vertical-align: bottom;}
 
 .mv{
   width: 400px;
+   
    display: flex;
 
 }
 
 .mv img {
    display: inline;
-   text-align: center;
+   
    margin: 0 auto;
    margin-top: 60px;
 }
