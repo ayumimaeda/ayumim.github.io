@@ -79,7 +79,7 @@ boxsizing: border-box;
 
 .mv img {
    display: inline;
-   flex-basis: 600px;
+   flex-basis: 500px;
   
    margin-top: 60px;
 }
