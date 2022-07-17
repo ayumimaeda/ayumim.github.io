@@ -69,6 +69,7 @@ img{vertical-align: bottom;}
 
 .mv{
   width: 400px;
+   display: flex;
 
 }
 
